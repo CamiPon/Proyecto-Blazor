@@ -13,70 +13,70 @@ namespace LavaderoBlazor.Shared
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "C:\Cami-Temporal\LavaderoBlazor\LavaderoBlazor\LavaderoBlazor\_Imports.razor"
+#line 1 "C:\CredExpert\LavaderoBlazor\Proyecto-Blazor\LavaderoBlazor\LavaderoBlazor\_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "C:\Cami-Temporal\LavaderoBlazor\LavaderoBlazor\LavaderoBlazor\_Imports.razor"
+#line 2 "C:\CredExpert\LavaderoBlazor\Proyecto-Blazor\LavaderoBlazor\LavaderoBlazor\_Imports.razor"
 using Microsoft.AspNetCore.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "C:\Cami-Temporal\LavaderoBlazor\LavaderoBlazor\LavaderoBlazor\_Imports.razor"
+#line 3 "C:\CredExpert\LavaderoBlazor\Proyecto-Blazor\LavaderoBlazor\LavaderoBlazor\_Imports.razor"
 using Microsoft.AspNetCore.Components.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "C:\Cami-Temporal\LavaderoBlazor\LavaderoBlazor\LavaderoBlazor\_Imports.razor"
+#line 4 "C:\CredExpert\LavaderoBlazor\Proyecto-Blazor\LavaderoBlazor\LavaderoBlazor\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "C:\Cami-Temporal\LavaderoBlazor\LavaderoBlazor\LavaderoBlazor\_Imports.razor"
+#line 5 "C:\CredExpert\LavaderoBlazor\Proyecto-Blazor\LavaderoBlazor\LavaderoBlazor\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "C:\Cami-Temporal\LavaderoBlazor\LavaderoBlazor\LavaderoBlazor\_Imports.razor"
+#line 6 "C:\CredExpert\LavaderoBlazor\Proyecto-Blazor\LavaderoBlazor\LavaderoBlazor\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "C:\Cami-Temporal\LavaderoBlazor\LavaderoBlazor\LavaderoBlazor\_Imports.razor"
+#line 7 "C:\CredExpert\LavaderoBlazor\Proyecto-Blazor\LavaderoBlazor\LavaderoBlazor\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web.Virtualization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "C:\Cami-Temporal\LavaderoBlazor\LavaderoBlazor\LavaderoBlazor\_Imports.razor"
+#line 8 "C:\CredExpert\LavaderoBlazor\Proyecto-Blazor\LavaderoBlazor\LavaderoBlazor\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "C:\Cami-Temporal\LavaderoBlazor\LavaderoBlazor\LavaderoBlazor\_Imports.razor"
+#line 9 "C:\CredExpert\LavaderoBlazor\Proyecto-Blazor\LavaderoBlazor\LavaderoBlazor\_Imports.razor"
 using LavaderoBlazor;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 10 "C:\Cami-Temporal\LavaderoBlazor\LavaderoBlazor\LavaderoBlazor\_Imports.razor"
+#line 10 "C:\CredExpert\LavaderoBlazor\Proyecto-Blazor\LavaderoBlazor\LavaderoBlazor\_Imports.razor"
 using LavaderoBlazor.Shared;
 
 #line default
@@ -90,7 +90,7 @@ using LavaderoBlazor.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "C:\Cami-Temporal\LavaderoBlazor\LavaderoBlazor\LavaderoBlazor\Shared\NavMenu.razor"
+#line 28 "C:\CredExpert\LavaderoBlazor\Proyecto-Blazor\LavaderoBlazor\LavaderoBlazor\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

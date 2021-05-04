@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Cami-Temporal\\LavaderoBlazor\\LavaderoBlazor\\LavaderoBlazorBackEnd\\LavaderoBlazorBackEnd.csproj": {}
+    "C:\\CredExpert\\LavaderoBlazor\\Proyecto-Blazor\\LavaderoBlazor\\LavaderoBlazorBackEnd\\LavaderoBlazorBackEnd.csproj": {}
   },
   "projects": {
-    "C:\\Cami-Temporal\\LavaderoBlazor\\LavaderoBlazor\\LavaderoBlazorBackEnd\\LavaderoBlazorBackEnd.csproj": {
+    "C:\\CredExpert\\LavaderoBlazor\\Proyecto-Blazor\\LavaderoBlazor\\LavaderoBlazorBackEnd\\LavaderoBlazorBackEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Cami-Temporal\\LavaderoBlazor\\LavaderoBlazor\\LavaderoBlazorBackEnd\\LavaderoBlazorBackEnd.csproj",
+        "projectUniqueName": "C:\\CredExpert\\LavaderoBlazor\\Proyecto-Blazor\\LavaderoBlazor\\LavaderoBlazorBackEnd\\LavaderoBlazorBackEnd.csproj",
         "projectName": "LavaderoBlazorBackEnd",
-        "projectPath": "C:\\Cami-Temporal\\LavaderoBlazor\\LavaderoBlazor\\LavaderoBlazorBackEnd\\LavaderoBlazorBackEnd.csproj",
-        "packagesPath": "C:\\Users\\Manu\\.nuget\\packages\\",
-        "outputPath": "C:\\Cami-Temporal\\LavaderoBlazor\\LavaderoBlazor\\LavaderoBlazorBackEnd\\obj\\",
+        "projectPath": "C:\\CredExpert\\LavaderoBlazor\\Proyecto-Blazor\\LavaderoBlazor\\LavaderoBlazorBackEnd\\LavaderoBlazorBackEnd.csproj",
+        "packagesPath": "C:\\Users\\camil\\.nuget\\packages\\",
+        "outputPath": "C:\\CredExpert\\LavaderoBlazor\\Proyecto-Blazor\\LavaderoBlazor\\LavaderoBlazorBackEnd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Manu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\camil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\camil\\AppData\\Local\\Esri\\NuGet": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Cami-Temporal\\LavaderoBlazor\\LavaderoBlazor\\LavaderoBlazor\\LavaderoBlazor.csproj": {}
+    "C:\\CredExpert\\LavaderoBlazor\\Proyecto-Blazor\\LavaderoBlazor\\LavaderoBlazor\\LavaderoBlazor.csproj": {}
   },
   "projects": {
-    "C:\\Cami-Temporal\\LavaderoBlazor\\LavaderoBlazor\\LavaderoBlazor\\LavaderoBlazor.csproj": {
+    "C:\\CredExpert\\LavaderoBlazor\\Proyecto-Blazor\\LavaderoBlazor\\LavaderoBlazor\\LavaderoBlazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Cami-Temporal\\LavaderoBlazor\\LavaderoBlazor\\LavaderoBlazor\\LavaderoBlazor.csproj",
+        "projectUniqueName": "C:\\CredExpert\\LavaderoBlazor\\Proyecto-Blazor\\LavaderoBlazor\\LavaderoBlazor\\LavaderoBlazor.csproj",
         "projectName": "LavaderoBlazor",
-        "projectPath": "C:\\Cami-Temporal\\LavaderoBlazor\\LavaderoBlazor\\LavaderoBlazor\\LavaderoBlazor.csproj",
-        "packagesPath": "C:\\Users\\Manu\\.nuget\\packages\\",
-        "outputPath": "C:\\Cami-Temporal\\LavaderoBlazor\\LavaderoBlazor\\LavaderoBlazor\\obj\\",
+        "projectPath": "C:\\CredExpert\\LavaderoBlazor\\Proyecto-Blazor\\LavaderoBlazor\\LavaderoBlazor\\LavaderoBlazor.csproj",
+        "packagesPath": "C:\\Users\\camil\\.nuget\\packages\\",
+        "outputPath": "C:\\CredExpert\\LavaderoBlazor\\Proyecto-Blazor\\LavaderoBlazor\\LavaderoBlazor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Manu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\camil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\camil\\AppData\\Local\\Esri\\NuGet": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
